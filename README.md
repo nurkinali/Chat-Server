@@ -4,7 +4,7 @@ Chat Server by Python Sockets
 A client/server chat application uses Python Socket Programming and Multi-Threading. Message codes and answers:
 
     | Messsage    	  | Answer      |
-    | ------          | ------	|
+    | ----------------| ------------|
     | RG nick:pass    | RO nick 	| (sign in)
     | RG nick:pass    | RN nick 	| (nickname already exists)
     | US nick:pass    | UO nick 	| (log in)
